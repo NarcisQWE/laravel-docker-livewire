@@ -35,7 +35,7 @@ services:
     environment:
       MYSQL_DATABASE: laravel_blog
       MYSQL_ROOT_PASSWORD: root_password
-      MYSQL_PASSWORD: user_password
+      MYSQL_PASSWORD: user_password 
       MYSQL_USER: laravel_user
     volumes:
       - dbdata:/var/lib/mysql

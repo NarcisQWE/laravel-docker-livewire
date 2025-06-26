@@ -533,7 +533,7 @@ class CarbonInterval extends DateInterval implements CarbonConverterInterface
                         ($totalDays - $this->d).' days '.
                         ($hours - $this->h).' hours '.
                         ($minutes - $this->i).' minutes '.
-                        number_format($intervalSeconds - $this->s, 6, '.', '').' seconds '.
+                        ($intervalSeconds - $this->s).' seconds '.
                         ($microseconds - $intervalMicroseconds).' microseconds ',
                     ));
                 }

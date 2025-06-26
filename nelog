@@ -1,0 +1,35 @@
+[33mcommit 838d4c808d37739d01d17a39c09fa1672ee48942[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: NarcoMeister <andreinarcis25@gmail.com>
+Date:   Thu Jun 26 22:11:22 2025 +0300
+
+    New Files Added
+
+[33mcommit a2496298d8db7c954ee2c03aa99d3f589adbae55[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NarcoMeister <andreinarcis25@gmail.com>
+Date:   Tue Jun 24 19:35:20 2025 +0300
+
+    Vendor /Livewire added
+
+[33mcommit 43bfad6a458dedf97fc5977ff5f6df8f1eb001c6[m
+Author: NarcoMeister <andreinarcis25@gmail.com>
+Date:   Tue Jun 24 19:23:10 2025 +0300
+
+    Prima versiune funcțională cu Laravel, Docker și baza de date
+
+[33mcommit 494ebca2d86c449c66e40c102edaef582015c537[m
+Author: NarcoMeister <andreinarcis25@gmail.com>
+Date:   Tue Jun 24 11:53:51 2025 +0300
+
+    initial commit
+
+[33mcommit 8200ce0379b2e93d05741b4e9c43a2cbe1f5c473[m
+Author: Nicu <nicu.braniste@roweb.com>
+Date:   Tue Jun 24 11:06:34 2025 +0300
+
+    docker files
+
+[33mcommit f1083c397893784fce6b40a33042da42bf257f47[m
+Author: Nicu <nicu.braniste@roweb.com>
+Date:   Tue Jun 24 10:32:07 2025 +0300
+
+    initial commit
